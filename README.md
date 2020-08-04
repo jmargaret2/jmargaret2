@@ -38,6 +38,10 @@
 
 <img align="left" alt="Margaret's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jmargaret2&show_icons=true&hide_border=true" />
 
+---
+
+<img align="left" alt="Margaret's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmargaret2" />
+
 [website]: https://jmargaret2.github.io
 [linkedin]: https://linkedin.com/in/jmargaret2
 [c]: https://en.cppreference.com/w/c/language

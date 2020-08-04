@@ -32,9 +32,11 @@
 
 ### :book: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
-
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+<img align="left" alt="Margaret's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jmargaret2&show_icons=true&hide_border=true" />
 
 [website]: https://jmargaret2.github.io
 [linkedin]: https://linkedin.com/in/jmargaret2

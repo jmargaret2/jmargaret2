@@ -7,7 +7,7 @@
 - :zap: Fun fact: I love to play string instruments
 
 ### Connect with me
-<p align="center">
+<p>
   <img src="https://img.shields.io/website?color=red&down_message=Website%20is%20offline&label=%20&style=for-the-badge&up_message=Personal%20website&url=https%3A%2F%2Fjmargaret2.github.io" />
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
@@ -16,7 +16,7 @@
 
 ### Languages and Tools
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>

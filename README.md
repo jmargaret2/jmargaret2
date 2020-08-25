@@ -9,7 +9,7 @@
 ### Connect with me
 <p>
 
-[![Website](https://img.shields.io/website?color=red&down_message=Personal%20website&style=for-the-badge&up_message=Personal%20website&url=https%3A%2F%2Fjmargaret2.github.io)](https://jmargaret2.github.io)
+[![Website](https://img.shields.io/website?down_message=personal%20website&label=%20&style=for-the-badge&up_message=personal%20website&url=https%3A%2F%2Fjmargaret2.github.io)](https://jmargaret2.github.io)
 
 [![WEBSITE](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white")](https://linkedin.com/in/jmargaret2)
 

@@ -1,7 +1,7 @@
 ### Hi there, I'm Margaret :wave:
 
 ## I'm a Student, Musician, and Developer!
-- :computer: I'm currently working on improving my [portfolio website][website]
+- :computer: I'm currently working on improving my [portfolio website][https://jmargaret2.github.io]
 - :seedling: I'm currently learning everything :laughing:
 - :dart: 2020 Goals: learn about machine learning and neural networks
 - :zap: Fun fact: I love to play string instruments

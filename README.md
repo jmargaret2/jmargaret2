@@ -8,8 +8,11 @@
 
 ### Connect with me
 <p>
-  <img src="https://img.shields.io/website?color=red&down_message=Website%20is%20offline&label=%20&style=for-the-badge&up_message=Personal%20website&url=https%3A%2F%2Fjmargaret2.github.io" />
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+
+[![Website](https://img.shields.io/website?color=red&down_message=Personal%20website&style=for-the-badge&up_message=Personal%20website&url=https%3A%2F%2Fjmargaret2.github.io)](https://jmargaret2.github.io)
+
+[![WEBSITE](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white")](https://linkedin.com/in/jmargaret2)
+
 </p>
 
 <br />
@@ -48,3 +51,9 @@
 ---
 
 <img align="left" alt="Margaret's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmargaret2" />
+
+---
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->

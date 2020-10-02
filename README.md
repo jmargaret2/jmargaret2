@@ -38,10 +38,10 @@
 ### :book: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Scrape Lyrics from Genius.com](https://jmargaret2.github.io/lyric-scraper/)
-- [A Mashup about Matches (and not the Tinder kind)](https://jmargaret2.github.io/matchmaker/)
 - [An Ava Max and StéLouse Medley](https://jmargaret2.github.io/sweet-but-psycho/)
 - [A Taylor Swift/The Devil Music Co. Mashup](https://jmargaret2.github.io/sailboatbed/)
 - [A Lady Gaga Mashup](https://jmargaret2.github.io/lady-gaga-mashup/)
+- [Ed Sheeran’s Perfect](https://jmargaret2.github.io/perfect/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

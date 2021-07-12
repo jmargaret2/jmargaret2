@@ -3,8 +3,8 @@
 ## I'm a Student, Musician, and Developer!
 - :computer: I'm currently working on improving my [portfolio website][website]
 - :seedling: I'm currently learning everything :laughing:
-- :dart: 2021 Goals: learn about machine learning and neural networks
-- :ballot_box_with_check: Technologies I'm currently learning: Haskell, SQL, C#
+- :dart: 2021 Goals: learn about digital audio synthesis
+- :ballot_box_with_check: Technologies I'm currently learning: Haskell, AWS Redshift, C#
 - :zap: Fun fact: I love to play string instruments
 
 ### Connect with me

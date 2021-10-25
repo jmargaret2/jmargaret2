@@ -40,11 +40,11 @@
 
 ### :book: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [A Keylogger Written in Python](https://jmargaret2.github.io/keylogger/)
-- [Scrape Lyrics from Genius.com](https://jmargaret2.github.io/lyric-scraper/)
-- [An Ava Max and StéLouse Medley](https://jmargaret2.github.io/sweet-but-psycho/)
-- [A Taylor Swift/The Devil Music Co. Mashup](https://jmargaret2.github.io/sailboatbed/)
-- [A Lady Gaga Mashup](https://jmargaret2.github.io/lady-gaga-mashup/)
+- [A Keylogger Written in Python](/2021/01/26/keylogger.html)
+- [Scrape Lyrics from Genius.com](/2020/08/01/lyric-scraper.html)
+- [An Ava Max and StéLouse Medley](/2020/07/08/sweet-but-psycho.html)
+- [A Taylor Swift/The Devil Music Co. Mashup](/2020/06/20/sailboatbed.html)
+- [A Lady Gaga Mashup](/2020/05/31/lady-gaga-mashup.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
